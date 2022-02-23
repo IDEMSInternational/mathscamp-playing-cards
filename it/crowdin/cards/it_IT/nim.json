@@ -1,0 +1,14 @@
+{
+  "Nim": "Nim",
+  "|": "|",
+  "| | |": "| | |",
+  "| | | | |": "| | | | |",
+  "Arrange 9 sticks in 3 rows as shown. Two players take it in turn to remove one or more sticks from a single row. The loser is the person to take the last stick. Can you find a winning strategy?": "Organizza 9 bastoncini in 3 file come mostrato. Due giocatori rimuovono a turni uno o più bastoncini da una sola fila. Il perdente è chi prende l'ultimo. Puoi trovare una strategia vincente?",
+  "You can remove as many sticks as you like each turn as long as they come from the same row. For example an opening move could be to take all 5 sticks from the bottom row. You must take at least one stick each turn. You are trying to leave just one stick left for your opponent to be forced to take and therefore lose the game.": "Puoi rimuovere quanti bastoncini vuoi a ogni turno finché provengono dalla stessa fila. Per esempio, una mossa d'apertura potrebbe essere prendere tutti i 5 bastoncini dall'ultima fila. Devi prendere almeno un bastoncino per turno. Stai provando a lasciare solo un bastoncino, così che il tuo rivale sia forzato a prendere e dunque a perdere il gioco.",
+  "Try to think a few moves ahead. For example if you can remove a stick to leave this pattern": "Prova a pensare ad alcune mosse in avanti. Ad esempio, se puoi rimuovere un bastoncino per lasciare questo schema",
+  "| |": "| |",
+  "then you will be able to win.": "allora, potrai vincere.",
+  "Try to work out if it is better to go first or second.": "Prova a capire se è meglio andare per primo o secondo.",
+  "This is an ancient game that owes its current name to Charles Bouton, who also developed a theory for how you can always play to win. His strategy involves binary numbers and can be found here <a href=\"https://plus.maths.org/content/play-win-nim\">https://plus.maths.org/content/play-win-nim</a>. You can play different variations of the game (also called drips) online here https://wild.maths.org/tags/fun-drips": "Questo è un antico gioco che deve il suo nome corrente a Charles Bouton, che sviluppò anch'egli una teoria per come giocare sempre per vincere. La sua strategia coinvolge i numeri binari e si può trovare qui <a href=\"https://plus.maths.org/content/play-win-nim\">https://plus.maths.org/content/play-win-nim</a>. Puoi giocare a diverse varianti del gioco (anche dette drip) online qui: https://wild.maths.org/tags/fun-drips",
+  "Try changing the starting number and pattern of sticks. You could try rows of 3,5,7 or 1,3,5,7 sticks.": "Prova a cambiare il numero iniziale e lo schema di bastoncini. Potresti provare file di 3, 5, 7 o 1, 3, 5, 7 bastoncini."
+}
