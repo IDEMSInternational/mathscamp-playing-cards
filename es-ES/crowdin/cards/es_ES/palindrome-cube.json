@@ -1,0 +1,14 @@
+{
+  "Palindrome Cube": "Cubo Palindrómico",
+  "10662526601 = 2201³ is the only known palindromic cube whose cube root is not palindromic (a palindrome is a number that reads the same backwards as forwards).": "10662526601 = 2201³ es el único cubo palindrómico conocido cuya raíz cúbica no es palindrómica (un palíndromo es un número que se lee igual de derecha a izquierda que de izquierda a derecha).",
+  "Take the number 1030301. It is a palindrome. It's cube root is 101, which is also a palindrome. Can you find other examples that are both palindromes? (Remember that all one digit numbers are palindromes!)": "Toma el número 1030301. Es un palíndromo. Su raíz cúbica es 101 que también es un palíndromo. ¿Puedees encontrar otros ejemplos donde ambos sean palíndromos? (¡Recuerda que todos los números de un dígito son palíndromos!)",
+  "According to the On-line Encyclopedia of Integer Sequences, The sequence of positive integers whose cube is palindromic begins:": "Según la Enciclopedia On-line de las Secuencias de Números Enteros, La secuencia de enteros positivos cuyo cubo es palíndrómico comienza:",
+  "1, 2, 7, 11, 101, 111, 1001, 2201, 10001, 10101, ...": "1, 2, 7, 11, 101, 111, 1001, 2201, 10001, 10101, ...",
+  "The corresponding sequence of palindromic cubes begins:": "La correspondiente secuencia de cubos palindrómicos comienza:",
+  "1, 8, 343, 1331, 1030301, 1367631, 1003003001, 10662526601, 1000300030001, ...": "1, 8, 343, 1331, 1030301, 1367631, 1003003001, 10662526601, 1000300030001, ...",
+  "2201 is the smallest (and only one known so far) which is itself non-palindromic.": "2201 es el menor (y único conocido hasta ahora) que es no palindrómico en sí mismo.",
+  "People have used computers to try and find another palindromic number whose cube root is not palindromic but no one has found one. This might be because there exists one that is bigger than the numbers that have been tested so far, or it might be that no more exist.": "La gente ha usado computadoras para tratar de econtrar otro número palindrómico cuta raíz cúbica no sea palindrómica pero nadie lo ha encontrado. Esto puede deberse a que existe uno que es más grande que los números que se han probado hasta ahora, o a que no existe otro.",
+  "There are 5 palindromic square numbers between 1 and 1000 (inclusive) whose square root is also a palindrome. Can you find them all?": "Hay 5 números cuadrados palindrómicos entre 1 y 1000 (ambos inclusive) cuya raíz cuadrada es tambén un palíndromo. ¿Puedes encontrarlos a todos?",
+  "Remember all one digit numbers are palindromes.": "Recuerda que todos los números de un dígito son palíndromos.",
+  "The five numbers are 1²=1, 2²=4, 3²=9, 11²=121, 22²=484": "Los cinco números son: 1²=1, 2²=4, 3²=9, 11²=121, 22²=484"
+}
