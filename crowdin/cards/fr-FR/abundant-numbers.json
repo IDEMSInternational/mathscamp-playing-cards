@@ -1,0 +1,12 @@
+{
+  "Abundant Numbers": "Nombres abondants",
+  "The integer 12 is the first <strong>abundant number</strong>. Its proper divisors (factors not including 12 itself)  are 1, 2, 3, 4, and 6 which add up to 16 which is more than 12.": "L'entier 12 est le premier <strong>nombre abondant</strong>. La somme de ses diviseurs stricts (diviseurs distincts de 12 lui-même) 1, 2, 3, 4 et 6 s'élève à 16 et est plus grande que 12.",
+  "You could make a 10 by 10 grid of the numbers 1 to 100 and colour in the abundant numbers.": "Vous pouvez construire une grille de 10 par 10 contenant des nombres de 1 à 100 puis colorier la case des nombres abondants.",
+  "The next abundant number is 20, because the proper divisors of 20 are 1,2,4,5, and 10 which add up to 22. Can you explain why prime numbers can never be abundant?": "Le nombre abondant suivant est 20, parce que les diviseurs propres de 20 sont 1,2,4,5 et 10 qui font la somme de 22. Pouvez-vous expliquer pourquoi les nombres premiers ne peuvent jamais être abondants?",
+  "The first known classification of numbers as deficient, perfect or abundant was by Nicomachus in his Introductio Arithmetica (circa 100)": "La première classification connue des nombres en tant que déficient, parfait ou abondant était par Nicomachus dans son introduction Arithmetica (env. 100)",
+  "Numbers whose proper divisors add up to less than the number are called deficient numbers.": "Les nombres dont la somme des diviseurs stricts lui est inférieure sont appelés nombres déficients.",
+  "You could make a 10 by 10 grid of the numbers 1 to 100 and colour in the deficient numbers.": "Vous pouvez construire une grille de 10 par 10 contenant des nombres de 1 à 100 puis colorier la case des nombres déficients.",
+  "An example of a deficient number is 15, because 1,3, and 5 add up to 9 which is less than 15.": "Un exemple de nombre insuffisant est de 15, car 1,3 et 5 s'ajoutent à 9 ce qui est inférieur à 15.",
+  "Take the proper divisors of 6, they are 1,2, and 3 which adds up perfectly to 6.": "Prenez les véritables diviseurs de 6 qui sont 1,2, et 3 qui s'ajoutent parfaitement à 6.",
+  "6 is the smallest perfect number. Can you find the only other perfect number below 100?": "6 est le plus petit nombre parfait. Pouvez-vous trouver le seul autre nombre parfait inférieur à 100 ?"
+}
