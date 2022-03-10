@@ -26,25 +26,25 @@ What happens if you only had 2 pegs? What about 3, 4, 5, 6, 7, or 8 pegs? Can yo
 
 ## Explanation
 
-Starting with only 2 pegs, we know that the last peg to be knocked down would be number 1. We can work out which would be the last peg if we increase the number of pegs. To start, we record our results and look for a pattern.
+Starting with 2 pegs, we know that the last peg to be knocked down would be number 1. We can work out which would be the last peg if we increase the number of pegs. To start, we record our results and look for a pattern.
 
-2 - 1
+2 - 1,
 
-3 - 3
+3 - 3,
 
-4 - 1
+4 - 1,
 
-5 - 3
+5 - 3,
 
-6 - 5
+6 - 5,
 
-7 - 7
+7 - 7,
 
-8 - 1
+8 - 1,
 
 9 - 3
 
-And so on. Each power of two (1, 2, 4, 8, …) "resets" the last peg standing to be number 1. You can see that the number of the last peg standing goes up in odd numbers after this. To work out the answer for 52, we know the last reset was the largest power of two. The largest power of two below 52 is 32, and 52 - 32 = 20. So it is the twentieth odd number that is calculated as 2×20 + 1 = 41.  
+And so on. Each power of two (1, 2, 4, 8,...) "resets" the last peg standing to be number 1. You can see that the number of the last peg standing goes up in odd numbers after this. To work out the answer for 52, we know the last reset was the largest power of two. The largest power of two below 52 is 32, and 52 - 32 = 20. So it is the twentieth odd number that is calculated as 2×20 + 1 = 41.  
 
 # Extension 1
 
