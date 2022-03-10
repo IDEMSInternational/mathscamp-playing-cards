@@ -42,9 +42,8 @@ Starting with 2 pegs, we know that the last peg to be knocked down would be numb
 
 8 - 1,
 
-9 - 3
-
-And so on. Each power of two (1, 2, 4, 8,...) "resets" the last peg standing to be number 1. You can see that the number of the last peg standing goes up in odd numbers after this. To work out the answer for 52, we know the last reset was the largest power of two. The largest power of two below 52 is 32, and 52 - 32 = 20. So it is the twentieth odd number that is calculated as 2×20 + 1 = 41.  
+9 - 3 
+and so on. Each power of two (1, 2, 4, 8,...) "resets" the last peg standing to be number 1. You can see that the number of the last peg standing goes up in odd numbers after this. To work out the answer for 52, we know the last reset was the largest power of two. The largest power of two below 52 is 32, and 52 - 32 = 20. So it is the twentieth odd number that is calculated as 2×20 + 1 = 41.  
 
 # Extension 1
 
