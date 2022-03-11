@@ -20,7 +20,7 @@ What is the biggest number of pieces of a circular cake you can obtain with 5 st
 
 ## Hint
 
-Start with a small number of cuts, e.g. 1, 2, 3. How can you add another cut to get the biggest number of pieces? Remember it doesn't say that the pieces have to be the same size! What happens if many cuts pass through the same point?
+Start with a small number of cuts, e.g. 1, 2, 3. How can you add another cut to get the biggest number of pieces? Remember it doesn't say that the pieces have to be of the same size! What happens if many cuts pass through the same point?
 
 ## Explanation
 
