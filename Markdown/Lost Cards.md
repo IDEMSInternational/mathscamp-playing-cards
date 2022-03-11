@@ -20,7 +20,7 @@ A small number of cards has been lost from a complete pack of 52. I deal cards t
 
 ## Hint
 
-Think about remainders when dividing. If there are two left when divided amongst five people, then the number must be two more than a multiple of 5, e.g. 7 or 32
+Think about remainders when dividing. If there are two left when divided amongst five people, then the number must be two more than a multiple of 5, e.g. 7 or 32.
 
 ## Explanation
 
