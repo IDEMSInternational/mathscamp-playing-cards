@@ -18,7 +18,7 @@ game
 
 | | | | |
 
-Arrange 9 sticks in 3 rows as shown. Two players take it in turn to remove one or more sticks from a single row. The loser is the person to take the last stick. Can you find a winning strategy?
+Arrange 9 sticks in 3 rows as shown. Two players take it in turns to remove one or more sticks from a single row. The loser is the person to take the last stick. Can you find a winning strategy?
 
 ## Further Instructions
 

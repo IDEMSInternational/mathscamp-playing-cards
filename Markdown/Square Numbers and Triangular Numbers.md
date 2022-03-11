@@ -12,9 +12,9 @@ Fun fact
 
 ## Statement
 
-The first six triangular numbers are 1, 3, 6, 10, and 15
+The first five triangular numbers are 1, 3, 6, 10, and 15
 
-The first six square numbers are 1, 4, 9, 16, and 25
+The first five square numbers are 1, 4, 9, 16, and 25
 
 Any square number bigger than 1 is the sum of two consecutive triangular numbers.
 

@@ -12,7 +12,7 @@ Counting
 
 ## Statement
 
-Start from home (H) and go to school (S). You can walk along the 2 by 5 grid by making steps only towards east or north. How many different paths can you take to reach your school?
+Start from home (bottom left) and go to school (top right). You can walk along the 2 by 5 grid by making steps only towards east or north. How many different paths can you take to reach your school?
 
 ![](Going%20to%20School_images/image_0.png)
 

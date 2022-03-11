@@ -12,7 +12,7 @@ counting
 
 ## Statement
 
-How many possible three-stripe flags similar to the one below are there if only 5 colours are available and two touching stripes must NOT have the same colour.
+How many possible three-stripe flags similar to the one below are there if only 5 colours are available and two touching stripes must NOT have the same colour?
 
 ![](Colouring_images/image_0.png)
 

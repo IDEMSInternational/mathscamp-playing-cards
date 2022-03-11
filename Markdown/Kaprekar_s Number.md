@@ -16,7 +16,7 @@ Choose a four digit number where the digits are not all the same.
 
 Rearrange the digits to get the largest and smallest possible numbers these digits can make.
 
-Subtract the smallest number from the largest to get a new number, and carry on repeating the operation for each new number. You will always end up at the same number.
+Subtract the smallest number from the largest to get a new number, and carry on repeating the operation for each new number. You will eventually end up at the same number.
 
 ## Hint
 

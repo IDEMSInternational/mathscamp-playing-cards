@@ -12,7 +12,7 @@ game
 
 ## Statement
 
-Remove the 10, J, Q, K, and Joker cards from the deck. Shuffle the rest and deal four cards face up on the table so that every player can see them. Each player attempts to make the number 24 silently using all four numbers (A count as 1), and as many operations +, −, × and ÷ and brackets () as needed. The first person to give an answer with an explanation wins and keeps the 4 cards. Keep playing until there are no cards left.
+Remove the 10, J, Q, K, and Joker cards from the deck. Shuffle the rest and deal four cards face up on the table so that every player can see them. Each player attempts to make the number 24 silently using all four numbers (A counts as 1), and as many operations +, −, × and ÷ and brackets () as needed. The first person to give an answer with an explanation wins and keeps the 4 cards. Keep playing until there are no cards left.
 
 ## Further Instructions
 

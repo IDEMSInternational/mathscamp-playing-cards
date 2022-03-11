@@ -12,7 +12,7 @@ counting
 
 ## Statement
 
-How many different ways can you arrange teachers and students in a row of 5 chairs such that no 2 teachers are sat next to each other?
+In how many different ways can you arrange teachers and students in a row of 5 chairs such that no 2 teachers are sat next to each other?
 
 ## Correct Answer
 

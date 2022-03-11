@@ -12,7 +12,7 @@ fun fact
 
 ## Statement
 
-If you could fold a piece of paper in half only 42 times, it would reach the Moon! 
+If you could fold a piece of paper in half 42 times, it would reach the Moon! 
 
 ## Hint
 

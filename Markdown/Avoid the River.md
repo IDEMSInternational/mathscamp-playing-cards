@@ -11,7 +11,7 @@ Counting
 # Main Version
 
 ## Statement
-Start from home (H) and go to school (S). You can walk along the 4 by 4 grid by making steps only towards east or north. You cannot cross the river (blue line)! In how many ways can you reach your school?
+Start from home (bottom left) and go to school (top right). You can walk along the 4 by 4 grid by making steps only towards east or north. You cannot cross the river (blue line)! In how many ways can you reach your school?
 
 ![](Avoid%20the%20River_images/image_0.png)
 

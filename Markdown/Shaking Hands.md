@@ -12,7 +12,7 @@ Counting
 
 ## Statement
 
-At your friend's birthday there are 8 children. Each child shakes hands with all the other children in the party. How many handshakes happened in total? 
+At your friend's birthday there are 8 children at the party. Each child shakes hands with all the other children in the party. How many handshakes happened in total? 
 
 ## Correct Answer
 

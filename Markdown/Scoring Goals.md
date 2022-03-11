@@ -12,7 +12,7 @@ Counting
 
 ## Statement
 
-In the final of a football cup the score was 5 - 2. In how many possible orders could the goals in the game be scored?
+In the final of a football cup the score was 5 - 2. In how many possible orders could the goals in the game have been scored?
 
 ## Correct Answer
 

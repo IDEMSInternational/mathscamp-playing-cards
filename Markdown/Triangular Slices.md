@@ -12,7 +12,7 @@ Counting
 
 ## Statement
 
-Consider the cake below – a six-sided hexagon. Now split it into triangles by cutting along diagonals that don't cross each other, one example is given in red. This splitting into triangles is called a triangulation, in how many ways can you do this?
+Consider the cake below – a six-sided hexagon. Now split it into triangles by cutting along diagonals that don't cross each other, one example is given in red. This splitting into triangles is called a triangulation. In how many ways can you do this?
 
 ![](Triangular%20Slices_images/image_0.png)
 

@@ -12,7 +12,7 @@ game
 
 ## Statement
 
-This is a one player game of patience. Lay out a grid of 8 cards in 2 rows of 4 cards, face up and hold the remaining cards. If you find two cards in the grid that sum to 11 you can put new cards from your hand on top of them (here A = 1). If you find the J, Q or K cards you can also put a new card on top of each. The objective of the game is to put down all the cards. 
+This is a one player game of patience. Lay out a grid of 8 cards in 2 rows of 4 cards, face up and hold the remaining cards. If you find two cards in the grid that sum to 11 you can put new cards from your hand on top of them (here A = 1). If you find the J, Q and K cards, you can also put a new card on top of each. The objective of the game is to put down all the cards. 
 
 ## Further Instructions
 

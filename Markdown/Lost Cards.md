@@ -12,7 +12,7 @@ puzzle
 
 ## Statement
 
-A small number of cards has been lost from a complete pack of 52. I deal cards to players until all have the same number of cards and some cards are left. If I deal to four players, three cards remain. If I deal to three players, two cards remain and if I deal to five players, two cards remain. How many cards are there?
+A small number of cards has been lost from a complete pack of 52. I deal cards to players until all have the same number of cards and some cards are left. If I deal to four players, three cards remain. If I deal to three players, two cards remain. If I deal to five players, two cards remain.. How many cards are there?
 
 ## Correct Answer
 

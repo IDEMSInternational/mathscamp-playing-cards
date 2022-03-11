@@ -12,7 +12,7 @@ game
 
 ## Statement
 
-Two players take it in turn to count up, starting from 1 and counting 1, 2, or 3 numbers at a time. Each player continues counting from where the other player stops. The player who says 21 loses.
+Two players take it in turns to count up, starting from 1 and counting 1, 2, or 3 numbers at a time. Each player continues counting from where the other player stops. The player who says 21 loses.
 
 ## Further Instructions
 
