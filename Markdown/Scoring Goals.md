@@ -32,7 +32,7 @@ For the question of how many ways can the goals be scored if the score is 5 - 2,
 
 ## Statement
 
-In the final of a football cup the score was 6 - 2. In how many possible orders could the goals in the game be scored? 
+In the final of a football cup the score was 6 - 2. In how many possible orders could the goals in the game have been scored? 
 
 ## Hint
 
@@ -56,7 +56,7 @@ You can use this to come up with the formula generalising the reasoning in the p
 
 ## Statement
 
-In the final of a football cup the score was 4 - 3. In how many possible orders could the goals in the game be scored?
+In the final of a football cup the score was 4 - 3. In how many possible orders could the goals in the game have been scored?
 
 ## Hint
 
