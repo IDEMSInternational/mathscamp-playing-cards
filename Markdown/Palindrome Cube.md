@@ -16,11 +16,11 @@ fun fact
 
 ## Hint
 
-Take the number 1030301. It is a palindrome. It's cube root is 101, which is also a palindrome. Can you find other examples that are both palindromes? (Remember that all one digit numbers are palindromes!)   
+Take the number 1030301. It is a palindrome. Its cube root is 101, which is also a palindrome. Can you find other examples that are both palindromes? (Remember that all one digit numbers are palindromes!)   
 
 ## Explanation
 
-According to the On-line Encyclopedia of Integer Sequences, The sequence of positive integers whose cube is palindromic begins:
+According to the On-line Encyclopedia of Integer Sequences, the sequence of positive integers whose cube is palindromic begins:
 
 1, 2, 7, 11, 101, 111, 1001, 2201, 10001, 10101, ...
 
