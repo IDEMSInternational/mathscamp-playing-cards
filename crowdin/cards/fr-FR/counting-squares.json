@@ -9,11 +9,11 @@
   "There are 50 squares, made up as follows:": "Il y a 50 carrés qui se décomptent comme suit :",
   "Non-rotated: sixteen 1 by 1, nine 2 by 2, four 3 by 3 and one 4 by 4": "Non tournés : seize carrés 1 fois 1, neuf carrés 2 fois 2, quatre carrés 3 fois 3 et un carré 4 fois 4",
   "Rotated: 9 + 1 + 8 + 2 (varying sizes and tilt angle)": "Tournés : 9 + 1 + 8 + 2 (en variant les dimensions et l'angle d'inclinaison)",
-  "How many different squares can you make by joining dots on a 6 by 6 lattice?": "How many different squares can you make by joining dots on a 6 by 6 lattice?",
-  "The number of squares can be found by the following pattern:": "The number of squares can be found by the following pattern:",
-  "2 by 2 lattice: 1×1 = 1": "2 by 2 lattice: 1×1 = 1",
-  "3 by 3 lattice: 1×2 + 4×1 = 6": "3 by 3 lattice: 1×2 + 4×1 = 6",
-  "4 by 4 lattice: 1×3 + 4×2 + 9×1 = 20": "4 by 4 lattice: 1×3 + 4×2 + 9×1 = 20",
-  "5 by 5 lattice: 1×4 + 4×3 + 9×2 + 16×1 = 50": "5 by 5 lattice: 1×4 + 4×3 + 9×2 + 16×1 = 50",
-  "6 by 6 lattice: 1×5 + 4×4 + 9×3 + 16×2 + 25×1 = 105": "6 by 6 lattice: 1×5 + 4×4 + 9×3 + 16×2 + 25×1 = 105"
+  "How many different squares can you make by joining dots on a 6 by 6 lattice?": "Combien de carrés différents pouvez-vous obtenir en joignant les points sur une grille de taille 6 fois 6 ?",
+  "The number of squares can be found by the following pattern:": "Le nombre de carrés peut être trouvé par le schéma suivant :",
+  "2 by 2 lattice: 1×1 = 1": "Grille de taille 2 fois 2 : 1×1 = 1",
+  "3 by 3 lattice: 1×2 + 4×1 = 6": "Grille de taille 3 fois 3 : 1×2 + 4×1 = 6",
+  "4 by 4 lattice: 1×3 + 4×2 + 9×1 = 20": "Grille de taille 4 fois 4: 1×3 + 4×2 + 9×1 = 20",
+  "5 by 5 lattice: 1×4 + 4×3 + 9×2 + 16×1 = 50": "Grille de taille 5 fois 5 : 1×4 + 4×3 + 9×2 + 16×1 = 50",
+  "6 by 6 lattice: 1×5 + 4×4 + 9×3 + 16×2 + 25×1 = 105": "Grille de taille 6 fois 6 : 1×5 + 4×4 + 9×3 + 16×2 + 25×1 = 105"
 }
