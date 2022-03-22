@@ -72,9 +72,7 @@ The same argument works for any number of hexagons in a hive. Take the total num
 
 ## About
 
-Problems such as "If A people can dig a trench in B** **days, then how long will it take C** **people to dig the trench?" can be solved by calculating (A×B  ∕ C). This ancient technique is called "the rule of three" and was written about in a nursery rhyme in 1570: ** "**Multiplication is vexation;
-
-Division is as bad; The Rule of Three doth puzzle me, And Practice drives me mad."
+Problems such as "If A people can dig a trench in B** **days, then how long will it take C** **people to dig the trench?" can be solved by calculating (A×B  ∕ C). This ancient technique is called "the rule of three" and was written about in a nursery rhyme in 1570: ** "**Multiplication is vexation; Division is as bad; The Rule of Three doth puzzle me, And Practice drives me mad."
 
 ## References
 
