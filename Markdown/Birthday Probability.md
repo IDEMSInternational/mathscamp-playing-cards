@@ -28,7 +28,7 @@ What do we get if we use the same approach for 23 people?
 
 ## Explanation
 
-The probability of any 2 people having different birthdays is roughly 364 ∕ 365. There are 253 different pairs of people in a room of 23 people, so the probability of them all having different birthdays is roughly 364 ∕ 365 to the power 253. This is 0.4995 slightly less than 50% so the probability of having 2 people in the room with the same birthday is just over 50%. Actually we should be including leap years but the result is still true if you do.
+The probability of 2 people not having the same birthday is 364 / 365 because the second person must have a different birthday so there are only 364 days to choose from. The probability of 3 people not having the same birthday is 364x363 / (365)^2 because the third person can't share a birthday with either of them, so there are only 363 days to choose from. Therefore the probability of 23 people not having the same birthday would be 364x363x362x...x343/(365)^22=0.4927. Hence, the probability of 2 or more people sharing the same birthday must be 1-0.4927=0.5073"
 
 # Extension 1
 

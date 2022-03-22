@@ -24,7 +24,7 @@ Triangular numbers can be drawn with dots in the shape of a triangle. Square num
 
 ## Explanation
 
-We first show this visually, in the image below you can see that 4 = 1 + 3,  9 = 3 + 6, 16 = 6 + 10, and 25 = 10 + 15. 
+We first show this visually, in the image below you can see that 4 = 1 + 3,  9 = 3 + 6, 16 = 6 + 10, and 25 = 10 + 15. </p>\n<p><img alt=\"\" src=\"assets/images/Square_Numbers_and_Triangular_Numbers_image_0.png\" class=\"Square_Numbers_and_Triangular_Numbers_image_0\" /></p>\n<p>If we take T = triangular and S = square, then we can draw the S-number as an S-grid of points, the smaller T-number forms the upper T of points, the larger T-number forms the lower T AND the diagonal of points.</p>\n<p>These are consecutive triangular numbers making a square.</p>\n<p>The side length in points of the bigger T-number is the square root of the S-number. 
 
 ![](Square%20Numbers%20and%20Triangular%20Numbers_images/image_0.png)
 

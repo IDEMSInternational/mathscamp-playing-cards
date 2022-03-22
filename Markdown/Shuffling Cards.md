@@ -30,7 +30,7 @@ We want to work out how many different combinations of 52 cards there are. Let u
 
 Take a deck of 52 cards, shuffle them as much as you can, then try to guess which exact cards will be the top 3 cards (in order). Did you get your guess right? 
 
-Now if we assume that there are 1 million people doing exactly this procedure, we would expect around 7 people to guess right.
+Now if we assume that there are 1 million people doing exactly this procedure,how many would we expect to guess correctly?
 
 ## Hint
 

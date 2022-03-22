@@ -12,7 +12,7 @@ puzzle
 
 ## Statement
 
-The average (mean) of 16 different positive integers is 16. What is the greatest possible value that any of these integers could have?
+The average (mean) of 16 different positive integers is 16.What is the greatest possible value that any of these integers could have?
 
 ## Correct Answer
 
@@ -48,7 +48,7 @@ You cannot make all 7 people older than 16 because the average is 16. You could 
 
 ## Statement
 
-When Albert entered the room, the average age increased by 4 years. When Belinda then entered the room, the average age increased by another 3 years. Albert and Belinda are twins. How many people were in the room before Albert entered?
+There are some people in the room.When Albert entered the room, the average age increased by 4 years. When Belinda then entered the room, the average age increased by another 3 years. Albert and Belinda are twins. How many people were in the room before Albert entered?
 
 ## Hint
 

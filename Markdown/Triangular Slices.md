@@ -26,7 +26,7 @@ In how many ways could you do it if the cake were a square? What if it were a fi
 
 ## Explanation
 
-It is best to start with a simpler question and look for patterns. Start by looking at a square. There are two different ways we could slice the cake. 
+We can draw three possible lines all leading from the point 1 of the hexagon: one which would pass through 3 and would leave out a five sided figure (hence 5 ways), one which would pass through 4 and would leave out two four-sided figures (hence 2+2 ways) and one which would pass through 5 and leave out one five-sided figure (hence 5 ways). The sum of all the ways would then be 5+2+2+5=14. 
 
 ![](Triangular%20Slices_images/image_1.png)
 
