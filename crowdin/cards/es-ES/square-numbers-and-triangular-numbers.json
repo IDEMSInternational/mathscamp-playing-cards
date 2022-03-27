@@ -1,7 +1,7 @@
 {
   "Square numbers and triangular numbers": "Números cuadrados y números triangulares",
-  "The first six triangular numbers are 1, 3, 6, 10, and 15": "Los seis primeros números triangulares son 1, 3, 6, 10 y 15",
-  "The first six square numbers are 1, 4, 9, 16, and 25": "Los seis primeros números cuadrados son 1, 4, 9, 16 y 25",
+  "The first five triangular numbers are 1, 3, 6, 10, and 15": "The first five triangular numbers are 1, 3, 6, 10, and 15",
+  "The first five square numbers are 1, 4, 9, 16, and 25": "The first five square numbers are 1, 4, 9, 16, and 25",
   "Any square number bigger than 1 is the sum of two consecutive triangular numbers.": "Cualquier número cuadrado mayor a 1 es la suma de dos números triangulares consecutivos.",
   "Triangular numbers can be drawn with dots in the shape of a triangle. Square numbers can be drawn with dots in the shape of a square grid. See if you can work this one out visually first. Can you express it algebraically as well?": "Los números triangulares pueden representarse con puntos en forma de triángulo. Los números cuadrados pueden representarse con puntos en forma de cuadrícula. Intenta resolverlo primero visualmente. ¿Puedes expresarlo algebraicamente?",
   "We first show this visually, in the image below you can see that 4 = 1 + 3,  9 = 3 + 6, 16 = 6 + 10, and 25 = 10 + 15.": "Visualicémoslo primero, en la imagen siguiente se puede ver que 4 = 1 + 3,  9 = 3 + 6, 16 = 6 + 10 y 25 = 10 + 15.",
