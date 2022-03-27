@@ -1,6 +1,6 @@
 {
   "Shaking Hands": "Shaking Hands",
-  "At your friend's birthday there are 8 children. Each child shakes hands with all the other children in the party. How many handshakes happened in total?": "Le jour de l'anniversaire de votre ami, il y a 8 enfants. Chaque enfant serre la main de tous les autres enfants à la fête. Combien de poignées de main se sont produites au total?",
+  "At your friend's birthday there are 8 children at the party. Each child shakes hands with all the other children in the party. How many handshakes happened in total?": "At your friend's birthday there are 8 children at the party. Each child shakes hands with all the other children in the party. How many handshakes happened in total?",
   "Start with a small number of children, e.g. 3, 4, or 5. What is the number of handshakes you have to add if another child joins the party?": "Commencez par un petit nombre d'enfants, par exemple. 3, 4 ou 5. Combien de poignées de main devez-vous ajouter si un autre enfant rejoint le groupe?",
   "By counting from small examples, you may realise that each time you add a person at the birthday party with n children, the number of handshakes increases by n.": "En comptant sur de petits exemples, vous trouverez = erreur de temps et de vocabulaire peut-être que chaque fois que vous ajoutez une personne à la fête d'anniversaire avec n enfants, le nombre de poignées de main augmente de n.",
   "If we have 2 children (say A and B) we just have 1 handshake AB.": "Si nous avons 2 enfants (disons A et B), nous n'avons qu'une poignée de main AB.",
