@@ -33,7 +33,7 @@ fields_to_translate = [
     ["extension_2", "explanation"],
 ]
 
-os.makedirs('crowdin/cards/en', exist_ok=True)
+os.makedirs('crowdin/cards/en-GB', exist_ok=True)
 cardcsv = open('cards.csv')
 reader = csv.reader(cardcsv)
 for row in reader:
@@ -48,4 +48,4 @@ for row in reader:
                 entry = entry.get(field, {})
             if entry:
                 process_entry(entry, out)
-    json.dump(out, open("crowdin/cards/en/" + filename + ".json", "w"), indent=2)
+    json.dump(out, open("crowdin/cards/en-GB/" + filename + ".json", "w"), indent=2)
