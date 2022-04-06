@@ -3,7 +3,7 @@
   "|": "|",
   "| | |": "| | |",
   "| | | | |": "| | | | |",
-  "Arrange 9 sticks in 3 rows as shown. Two players take it in turns to remove one or more sticks from a single row. The loser is the person to take the last stick. Can you find a winning strategy?": "Arrange 9 sticks in 3 rows as shown. Two players take it in turns to remove one or more sticks from a single row. The loser is the person to take the last stick. Can you find a winning strategy?",
+  "Arrange 9 sticks in 3 rows as shown. Two players take it in turn to remove one or more sticks from a single row. The loser is the person to take the last stick. Can you find a winning strategy?": "Organizza 9 bastoncini in 3 file come mostrato. Due giocatori rimuovono a turni uno o più bastoncini da una sola fila. Il perdente è chi prende l'ultimo. Puoi trovare una strategia vincente?",
   "You can remove as many sticks as you like each turn as long as they come from the same row. For example an opening move could be to take all 5 sticks from the bottom row. You must take at least one stick each turn. You are trying to leave just one stick left for your opponent to be forced to take and therefore lose the game.": "Puoi rimuovere quanti bastoncini vuoi a ogni turno finché provengono dalla stessa fila. Per esempio, una mossa d'apertura potrebbe essere prendere tutti i 5 bastoncini dall'ultima fila. Devi prendere almeno un bastoncino per turno. Stai provando a lasciare solo un bastoncino, così che il tuo rivale sia forzato a prendere e dunque a perdere il gioco.",
   "Try to think a few moves ahead. For example if you can remove a stick to leave this pattern": "Prova a pensare ad alcune mosse in avanti. Ad esempio, se puoi rimuovere un bastoncino per lasciare questo schema",
   "| |": "| |",
