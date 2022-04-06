@@ -1,5 +1,5 @@
 {
-  "Counting Squares": "Counting Squares",
+  "Counting Squares": "Compter les carrés",
   "How many squares are there in the 10 by 10 square grid below?": "Combien de carrés y a-t-il dans la grille carrée de taille 10 fois 10 ci-dessous ?",
   "Can you start with a 4 by 4 square and work out how many squares there are? Remember to keep track of how many 1 by 1, 2 by 2, 3 by 3 and 4 by 4 squares you find.": "Pouvez-vous commencer par une grille carrée 4 fois 4 et déterminer combien de carrés elle contient ? N'oubliez pas de garder une trace du nombre de carrés de taille 1 fois 1, 2 fois 2, 3 fois 3 et 4 fois 4 que vous retrouveriez.",
   "There is one 10 by 10 square, four 9 by 9 squares, nine 8 by 8 squares, sixteen 7 by 7 squares .... one hundred 1 by 1 squares, all of which are square numbers. So we need to add all the square numbers from 1 to 100: 1 + 4 + 9 + 16 + 25 + 36 + 49 + 64 + 81 + 100 = 385.": "Il y a un carré 10 fois 10, quatre carrés 9 fois 9, neuf carrés 8 fois 8, seize carrés 7 fois 7, ... cent carrés 1 fois 1, qui sont tous des nombres carrés. Ainsi, nous devons ajouter tous les nombres carrés de 1 à 100: 1 + 4 + 9 + 16 + 25 + 36 + 49 + 64 + 81 + 100 = 385.",
