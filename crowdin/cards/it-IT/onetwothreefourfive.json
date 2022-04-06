@@ -10,6 +10,6 @@
   "What is the sum of all 2100 digits?": "Qual è la somma di tutte le 2100 cifre?",
   "What do the numbers 1 + 2 + 3 + 4 + 5 + 6 + 7 add up to?": "A quanto si sommano i numeri 1 + 2 + 3 + 4 + 5 + 6 + 7?",
   "The seven numbers 1, 2, 3, 4, 5, 6, and 7 add up to 28. If the pattern is continued for 2100 digits there will be 2100 ∕ 7 = 300 sets of these seven numbers. 300×28 = 8400.": "I sette numeri 1, 2, 3, 4, 5, 6 e 7 si sommano a 28. Se lo schema è continuato per 2100 cifre, ci saranno 2100/7 = 300 serie di questi sette numeri. 300x28 = 8400.",
-  "The pattern 1234...n,1234...n,1234...,n is carried on for 120000 digits. If the sum of these digits is 960000, what is n equal to?": "The pattern 1234...n,1234...n,1234...,n is carried on for 120000 digits. If the sum of these digits is 960000, what is n equal to?",
+  "The pattern 1234...n,1234,...n,1234…,n is carried on for 120000 digits. If the sum of these digits is 960000, what is n equal to?": "Lo schema 1234...n, 1234,...n,1234…n è portato avanti per 120000 cifre. Se la somma di queste cifre è 96000, a cos'è pari n?",
   "960000 is the sum of all the digits. There are 120000 digits, so dividing 960000 by 120000 gives us the average of the digits. This is 8, so we are looking for a sequence of numbers 1, 2, 3, … with an average of 8. This must be 1, 2, 3, …, 15.": "960000 è la somma di tutte le cifre. Ci sono 120000 cifre, quindi dividere 960000 per 120000 ci da la media delle cifre, ovvero 8, quindi stiamo cercando una sequenza di numeri 1, 2, 3, … con una media di 8. Dev'essere 1, 2, 3, …, 15."
 }
