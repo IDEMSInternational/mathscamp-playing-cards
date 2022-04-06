@@ -1,6 +1,6 @@
 {
   "Twenty-one": "Vingt et un",
-  "Two players take it in turns to count up, starting from 1 and counting 1, 2, or 3 numbers at a time. Each player continues counting from where the other player stops. The player who says 21 loses.": "Two players take it in turns to count up, starting from 1 and counting 1, 2, or 3 numbers at a time. Each player continues counting from where the other player stops. The player who says 21 loses.",
+  "Two players take it in turn to count up, starting from 1 and counting 1, 2, or 3 numbers at a time. Each player continues counting from where the other player stops. The player who says 21 loses.": "Deux joueurs prennent chaqun leur tour de compter vers le haut, à partir de 1 et comptant 1, 2 ou 3 chiffres à la fois. Chaque joueur continue à compter de l'endroit où l'autre joueur s'est arrêté. Le joueur qui doit dire 21 perd.",
   "An example game: P1 = Player 1, P2 = Player 2.": "Une partie comme exemple: P1 = Joueur 1, P2 = Joueur 2.",
   "P1: 1,2,3       P2: 4": "P1 : 1,2,3     P2 : 4",
   "P1: 5,6          P2: 7,8,9": "P1 : 5,6       P2 : 7,8,9",
