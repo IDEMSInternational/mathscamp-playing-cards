@@ -1,5 +1,5 @@
 files:
-  - source: /crowdin/cards/en-GB/*.json
+  - source: /crowdin/cards/en/*.json
     translation: /crowdin/cards/%locale%/%original_file_name%
-  - source: /crowdin/booklet/en-GB/*.odt
+  - source: /crowdin/booklet/en/*.odt
     translation: /crowdin/booklet/%locale%/%original_file_name%
