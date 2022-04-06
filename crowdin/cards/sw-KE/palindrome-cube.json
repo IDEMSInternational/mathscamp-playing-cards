@@ -1,8 +1,8 @@
 {
   "Palindrome Cube": "Palindrome Cube",
   "10662526601 = 2201³ is the only known palindromic cube whose cube root is not palindromic (a palindrome is a number that reads the same backwards as forwards).": "10662526601 = 2201³ is the only known palindromic cube whose cube root is not palindromic (a palindrome is a number that reads the same backwards as forwards).",
-  "Take the number 1030301. It is a palindrome. Its cube root is 101, which is also a palindrome. Can you find other examples that are both palindromes? (Remember that all one digit numbers are palindromes!)": "Take the number 1030301. It is a palindrome. Its cube root is 101, which is also a palindrome. Can you find other examples that are both palindromes? (Remember that all one digit numbers are palindromes!)",
-  "According to the On-line Encyclopedia of Integer Sequences, the sequence of positive integers whose cube is palindromic begins:": "According to the On-line Encyclopedia of Integer Sequences, the sequence of positive integers whose cube is palindromic begins:",
+  "Take the number 1030301. It is a palindrome. It's cube root is 101, which is also a palindrome. Can you find other examples that are both palindromes? (Remember that all one digit numbers are palindromes!)": "Take the number 1030301. It is a palindrome. It's cube root is 101, which is also a palindrome. Can you find other examples that are both palindromes? (Remember that all one digit numbers are palindromes!)",
+  "According to the On-line Encyclopedia of Integer Sequences, The sequence of positive integers whose cube is palindromic begins:": "According to the On-line Encyclopedia of Integer Sequences, The sequence of positive integers whose cube is palindromic begins:",
   "1, 2, 7, 11, 101, 111, 1001, 2201, 10001, 10101, ...": "1, 2, 7, 11, 101, 111, 1001, 2201, 10001, 10101, ...",
   "The corresponding sequence of palindromic cubes begins:": "The corresponding sequence of palindromic cubes begins:",
   "1, 8, 343, 1331, 1030301, 1367631, 1003003001, 10662526601, 1000300030001, ...": "1, 8, 343, 1331, 1030301, 1367631, 1003003001, 10662526601, 1000300030001, ...",
