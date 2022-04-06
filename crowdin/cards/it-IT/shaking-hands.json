@@ -1,6 +1,6 @@
 {
   "Shaking Hands": "Stringere Mani",
-  "At your friend's birthday there are 8 children at the party. Each child shakes hands with all the other children in the party. How many handshakes happened in total?": "At your friend's birthday there are 8 children at the party. Each child shakes hands with all the other children in the party. How many handshakes happened in total?",
+  "At your friend's birthday there are 8 children. Each child shakes hands with all the other children in the party. How many handshakes happened in total?": "At your friend's birthday there are 8 children. Each child shakes hands with all the other children in the party. How many handshakes happened in total?",
   "Start with a small number of children, e.g. 3, 4, or 5. What is the number of handshakes you have to add if another child joins the party?": "Start with a small number of children, e.g. 3, 4, or 5. What is the number of handshakes you have to add if another child joins the party?",
   "By counting from small examples, you may realise that each time you add a person at the birthday party with n children, the number of handshakes increases by n.": "By counting from small examples, you may realise that each time you add a person at the birthday party with n children, the number of handshakes increases by n.",
   "If we have 2 children (say A and B) we just have 1 handshake AB.": "If we have 2 children (say A and B) we just have 1 handshake AB.",
