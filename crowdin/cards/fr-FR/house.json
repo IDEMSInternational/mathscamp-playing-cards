@@ -1,5 +1,5 @@
 {
-  "House": "House",
+  "House": "Maison",
   "From how many vertices (points) is it possible to draw this figure without lifting the pen from the paper and going through each line exactly once?": "À partir de combien de sommets (points) est-il possible de dessiner cette figure sans soulever le stylo du papier et en parcourant chaque ligne exactement une fois?",
   "Try starting from the bottom left vertex (point).": "Essayez de commencer depuis le sommet du bas gauche (point).",
   "We can draw the figure in one uninterrupted movement if we start at the bottom left (or bottom right) vertex. For example starting at the bottom left we travel along edges 1 to 8:": "Nous pouvons dessiner la figure en un seul mouvement ininterrompu si nous commençons au sommet en bas à gauche (ou en bas à droite). Par exemple en commençant en bas à gauche, nous parcourons les arêtes 1 à 8:",
