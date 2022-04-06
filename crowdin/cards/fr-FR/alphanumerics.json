@@ -1,5 +1,5 @@
 {
-  "Alphanumerics": "Alphanumerics",
+  "Alphanumerics": "Alphanumériques",
   "In the sum CAR + CAT = RARE each letter represents a different digit from 0 to 9. What is the value of the word RARE?": "Dans la somme, CAR + CAT = RARE, chaque lettre représente un unique chiffre compris entre 0 et 9. Quelle est la valeur du mot RARE ?",
   "What digit must the letter R represent? If you add two 3-digit numbers together, what is the largest sum you could make?": "Quel chiffre doit représenter la lettre R? Si vous additionnez deux nombres de trois chiffres, quelle est la plus grande somme que vous pourriez obtenir?",
   "R must be equal to 1 since only the digit 1 can carry over from the hundreds column into the thousands column. So we now have CA1 + CAT = 1A1E.": "R doit être égal à 1 parce que 1 est la seule retenue possible que l’on peut faire passer de la case des centaines à la case des milliers. Nous avons donc, CA1 + CAT = 1A1E.",
