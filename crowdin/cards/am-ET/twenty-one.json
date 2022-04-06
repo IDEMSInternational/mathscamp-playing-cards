@@ -1,6 +1,6 @@
 {
   "Twenty-one": "Twenty-one",
-  "Two players take it in turns to count up, starting from 1 and counting 1, 2, or 3 numbers at a time. Each player continues counting from where the other player stops. The player who says 21 loses.": "Two players take it in turns to count up, starting from 1 and counting 1, 2, or 3 numbers at a time. Each player continues counting from where the other player stops. The player who says 21 loses.",
+  "Two players take it in turn to count up, starting from 1 and counting 1, 2, or 3 numbers at a time. Each player continues counting from where the other player stops. The player who says 21 loses.": "Two players take it in turn to count up, starting from 1 and counting 1, 2, or 3 numbers at a time. Each player continues counting from where the other player stops. The player who says 21 loses.",
   "An example game: P1 = Player 1, P2 = Player 2.": "An example game: P1 = Player 1, P2 = Player 2.",
   "P1: 1,2,3       P2: 4": "P1: 1,2,3       P2: 4",
   "P1: 5,6          P2: 7,8,9": "P1: 5,6          P2: 7,8,9",
