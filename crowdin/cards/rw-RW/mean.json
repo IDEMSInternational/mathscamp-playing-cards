@@ -13,9 +13,9 @@
   "Alternatively, let a be Albert and Belinda's age. The new mean after Albert walks in is (a - 4×n) because Albert has shared out 4 years to everyone in the room to make his age the same. After Belinda walks in the mean is (a - 3×(n + 1)) because she has given 3 years to everyone in the room including Albert. We know that this second expression must be 3 more than the first expression as the mean increased by 3 when Belinda walked in. So we can solve (a - 3×(n + 1)) = a - 4×n + 3  which gives n = 6.": "Alternatively, let a be Albert and Belinda's age. The new mean after Albert walks in is (a - 4×n) because Albert has shared out 4 years to everyone in the room to make his age the same. After Belinda walks in the mean is (a - 3×(n + 1)) because she has given 3 years to everyone in the room including Albert. We know that this second expression must be 3 more than the first expression as the mean increased by 3 when Belinda walked in. So we can solve (a - 3×(n + 1)) = a - 4×n + 3  which gives n = 6.",
   "Here is another way. Let the original mean be m. The sum of all the ages is originally (m×n). Let Albert's age be a. When Albert walks in, the new mean is (m + 4). This must be equal to (m×n + a) ∕ (n + 1). When Belinda walks in the room, the new mean is (m + 7). This must be equal to (m×n + 2×a) ∕ (n + 2). Rearranging these equations gives": "Here is another way. Let the original mean be m. The sum of all the ages is originally (m×n). Let Albert's age be a. When Albert walks in, the new mean is (m + 4). This must be equal to (m×n + a) ∕ (n + 1). When Belinda walks in the room, the new mean is (m + 7). This must be equal to (m×n + 2×a) ∕ (n + 2). Rearranging these equations gives",
   "m×n + a = m×n + m + 4×n + 4": "m×n + a = m×n + m + 4×n + 4",
-  "and": "and",
+  "and": "na",
   "m×n + 2×a = m×n + 2×m + 7×n + 14": "m×n + 2×a = m×n + 2×m + 7×n + 14",
-  "Which simplify to": "Which simplify to",
+  "Which simplify to": "Byigabanyamo bikaba",
   "a = m + 4×n + 4 and 2×a = 2×m + 7×n + 14.": "a = m + 4×n + 4 and 2×a = 2×m + 7×n + 14.",
-  "Multiplying the first equation by 2 and subtracting the second one gives n = 6. So there are 6 people in the room at the start.": "Multiplying the first equation by 2 and subtracting the second one gives n = 6. So there are 6 people in the room at the start."
+  "Multiplying the first equation by 2 and subtracting the second one gives n = 6. So there are 6 people in the room at the start.": "Dukubye equatio yambere na 2 kandi tugakuramo iyakabiri biduha n=6.\nrero hari abantu 6 munzu bitangira."
 }
