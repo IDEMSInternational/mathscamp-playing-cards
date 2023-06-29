@@ -1,5 +1,5 @@
 {
-  "Mean": "Mean",
+  "Mean": "Moyen",
   "The average (mean) of 16 different positive integers is 16. What is the greatest possible value that any of these integers could have?": "The average (mean) of 16 different positive integers is 16. What is the greatest possible value that any of these integers could have?",
   "Make the first 15 (different) numbers as small as possible. What does this tell us about the 16th number?": "Make the first 15 (different) numbers as small as possible. What does this tell us about the 16th number?",
   "If the mean of 16 numbers is 16, then the total of all the numbers is 16×16 = 256. We want to make one of the numbers as big as possible, so we should make the other 15 numbers as small as possible. The integers have to be different so we should choose 1, 2, 3, ..., 15. If you add them up this gives 120 (a quick way to do it is ½×15×16 = 120). So the biggest number is 256 - 120 = 136.": "If the mean of 16 numbers is 16, then the total of all the numbers is 16×16 = 256. We want to make one of the numbers as big as possible, so we should make the other 15 numbers as small as possible. The integers have to be different so we should choose 1, 2, 3, ..., 15. If you add them up this gives 120 (a quick way to do it is ½×15×16 = 120). So the biggest number is 256 - 120 = 136.",
