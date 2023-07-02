@@ -1,5 +1,5 @@
 {
-  "Shuffling Cards": "-> Mélanger les Cartes",
+  "Shuffling Cards": "les Cartes mélangées",
   "If you shuffle a deck of cards properly, it's more than likely that the exact order of the cards you get has never been seen before in the whole history of the universe.": "-> Si on mélange un packet de carte correctement, il est plus probable que l'orde de cartes a présent n'a jamais été vu a auparavant dans l'histoire de l'univers.",
   "How many arrangements of the 52 cards can we have? Maybe this is too big to start with. Let's try out a smaller number of 3 cards, how many different arrangements can we have? Now try 4 cards?": "Combien d'ordre specifique de 52 cartes existe-t'il? Peut-etre ceci est trop compliqué pour commencer. Essayons avec un nombre de 3 cartes, combien d'arrangements uniques peut-on avoir? Maintenant essayez aves 4 cartes?",
   "Can we now use this to get to the 52 cards?": "Avec cette methode, est-ce qu'on peut arriver a 52 cartes?",
