@@ -1,9 +1,9 @@
 {
-  "Sword of Josephus": "Sword of Josephus",
-  "Pegs numbered 1 to 52 are placed in a circle. Starting with number 2, alternate pegs are knocked down until only one is left.": "Pegs numbered 1 to 52 are placed in a circle. Starting with number 2, alternate pegs are knocked down until only one is left.",
-  "What is the number of the last peg to be knocked down?": "What is the number of the last peg to be knocked down?",
-  "What happens if you only had 2 pegs? What about 3, 4, 5, 6, 7, or 8 pegs? Can you spot the pattern after considering these cases?": "What happens if you only had 2 pegs? What about 3, 4, 5, 6, 7, or 8 pegs? Can you spot the pattern after considering these cases?",
-  "Starting with only 2 pegs, we know that the last peg to be knocked down would be number 1. We can work out which would be the last peg if we increase the number of pegs. To start, we record our results and look for a pattern.": "Starting with only 2 pegs, we know that the last peg to be knocked down would be number 1. We can work out which would be the last peg if we increase the number of pegs. To start, we record our results and look for a pattern.",
+  "Sword of Josephus": "Upanga wa Josephus",
+  "Pegs numbered 1 to 52 are placed in a circle. Starting with number 2, alternate pegs are knocked down until only one is left.": "Vigingi vilivyo na nambari 1 hadi 52 vimewekwa kwenye duara. Kuanzia na nambari 2, vigingi mbadala vinaangushwa hadi kimoja tu kibaki.",
+  "What is the number of the last peg to be knocked down?": "Ni nambari gani ya kigingi cha mwisho kuangushwa?",
+  "What happens if you only had 2 pegs? What about 3, 4, 5, 6, 7, or 8 pegs? Can you spot the pattern after considering these cases?": "Nini kitatokea ikiwa ulikuwa na vigingi 2 tu? Vipi kuhusu 3, 4, 5, 6, 7, au 8? Je, unaweza kuona muundo baada ya kuzingatia kesi hizi?",
+  "Starting with only 2 pegs, we know that the last peg to be knocked down would be number 1. We can work out which would be the last peg if we increase the number of pegs. To start, we record our results and look for a pattern.": "Kuanzia na vigingi 2 tu, tunajua kwamba kigingi cha mwisho kitakachoangushwa kitakuwa nambari 1. Tunaweza kutafuta kigingi kipi kitakuwa cha mwisho ikiwa tutaongeza idadi ya vigingi. Kuanza, tunarekodi matokeo yetu na kutafuta muundo.",
   "2 - 1": "2 - 1",
   "3 - 3": "3 - 3",
   "4 - 1": "4 - 1",
@@ -12,9 +12,9 @@
   "7 - 7": "7 - 7",
   "8 - 1": "8 - 1",
   "9 - 3": "9 - 3",
-  "And so on. Each power of two (1, 2, 4, 8, …) \"resets\" the last peg standing to be number 1. You can see that the number of the last peg standing goes up in odd numbers after this. To work out the answer for 52, we know the last reset was the largest power of two. The largest power of two below 52 is 32, and 52 - 32 = 20. So it is the twentieth odd number that is calculated as 2×20 + 1 = 41.": "And so on. Each power of two (1, 2, 4, 8, …) \"resets\" the last peg standing to be number 1. You can see that the number of the last peg standing goes up in odd numbers after this. To work out the answer for 52, we know the last reset was the largest power of two. The largest power of two below 52 is 32, and 52 - 32 = 20. So it is the twentieth odd number that is calculated as 2×20 + 1 = 41.",
-  "The legend of this puzzle is about a group of soldiers in a circle.": "The legend of this puzzle is about a group of soldiers in a circle.",
-  "Pegs numbered 1 to 2000 are placed in a circle. Starting with number 2, alternate pegs are knocked down until only one is left.": "Pegs numbered 1 to 2000 are placed in a circle. Starting with number 2, alternate pegs are knocked down until only one is left.",
-  "What is the biggest power of 2 (1, 2, 4, 8, ...) that is less than 2000?": "What is the biggest power of 2 (1, 2, 4, 8, ...) that is less than 2000?",
-  "The biggest power of 2 below 2000 is 1024. As 2000 - 1024 = 976, the final peg will be the 976ᵗʰ odd number, 976×2 + 1 = 1953.": "The biggest power of 2 below 2000 is 1024. As 2000 - 1024 = 976, the final peg will be the 976ᵗʰ odd number, 976×2 + 1 = 1953."
+  "And so on. Each power of two (1, 2, 4, 8, …) \"resets\" the last peg standing to be number 1. You can see that the number of the last peg standing goes up in odd numbers after this. To work out the answer for 52, we know the last reset was the largest power of two. The largest power of two below 52 is 32, and 52 - 32 = 20. So it is the twentieth odd number that is calculated as 2×20 + 1 = 41.": "Nakadhalika. Kila nguvu ya mbili (1, 2, 4, 8, …) \"huweka upya\" kigingi cha mwisho kilichosimama kuwa nambari 1. Unaweza kuona kwamba nambari ya kigingi cha mwisho imesimama hupanda kwa nambari zisizo za kawaida baada ya hii. Ili kupata jibu la 52, tunajua uwekaji upya wa mwisho ulikuwa nguvu kubwa zaidi ya mbili. Nguvu kubwa ya mbili chini ya 52 ni 32, na 52 - 32 = 20. Kwa hivyo ni nambari ya ishirini isiyo ya kawaida ambayo imehesabiwa kama 2×20 + 1 = 41.",
+  "The legend of this puzzle is about a group of soldiers in a circle.": "Hadithi ya fumbo hili ni kuhusu kundi la askari katika duara.",
+  "Pegs numbered 1 to 2000 are placed in a circle. Starting with number 2, alternate pegs are knocked down until only one is left.": "Vigingi vya nambari 1 hadi 2000 vimewekwa kwenye duara. Kuanzia na nambari 2, vigingi mbadala vinaangushwa hadi kimoja tu kibaki.",
+  "What is the biggest power of 2 (1, 2, 4, 8, ...) that is less than 2000?": "Ni nini nguvu kubwa zaidi ya 2 (1, 2, 4, 8, ...) ambayo ni chini ya 2000?",
+  "The biggest power of 2 below 2000 is 1024. As 2000 - 1024 = 976, the final peg will be the 976ᵗʰ odd number, 976×2 + 1 = 1953.": "Nguvu kubwa ya 2 chini ya 2000 ni 1024. Kama 2000 - 1024 = 976, kigingi cha mwisho kitakuwa 976ᵗʰ nambari isiyo ya kawaida, 976×2 + 1 = 1953."
 }
