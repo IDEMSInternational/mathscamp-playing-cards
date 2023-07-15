@@ -1,5 +1,5 @@
 {
-  "Triangular Slices": "Triangular Slices",
+  "Triangular Slices": "Tranches triangulaires",
   "Consider the cake below – a six-sided hexagon. Now split it into triangles by cutting along diagonals that don't cross each other, one example is given in red. This splitting into triangles is called a triangulation, in how many ways can you do this?": "Considérez le gâteau ci-dessous - un hexagone avec six côtés. Maintenant, divisez le en triangles en coupant le long de diagonales qui ne se croisent pas, un exemple est donné en rouge. Cette division en triangles s'appelle une triangulation, de combien de façons pouvez-vous le faire?",
   "In how many ways could you do it if the cake were a square? What if it were a five-sided pentagon? Can you use the symmetries of your cake to count faster?": "De combien de façons pourriez-vous le faire si le gâteau était un carré? Et si c'était un pentagone à cinq côtés? Pouvez-vous utiliser les symétries de votre gâteau pour compter plus rapidement?",
   "It is best to start with a simpler question and look for patterns. Start by looking at a square. There are two different ways we could slice the cake.": "Il est mieux de commencer par une question plus simple et de rechercher des modèles. Commencez par regarder un carré. Il y a deux façons différentes de couper le gâteau.",
