@@ -24,6 +24,11 @@ The pipeline consists of various stages.
 
 ### Google Docs to Markdown
 
+Note: Deprecated. We will edit the Markdown files directly rather than
+Google Docs, which is cumbersome and its conversion has issues.
+
+---
+
 Open the Google Docs "Content/Export test" in the Virtual maths camp Google
 Drive folder. In the menu, select Tools -> Script Editor. 
 Select `onInstall` from the functions dropdown menu and run it.
@@ -57,12 +62,24 @@ fill in `cards.csv` with the up-to-date mapping of cards to content.
 for the chatbot. Still needs testing. It also prints out which content
 is still missing sections.
 
-`make_booklet.py` creates `booklet.html` with the content
-in a format suitable for the booklet accompanying the card deck.
-Copy it into the `json/` folder where its `css` is located and its
-images are dumped after running `md_to_json.py`.
+`make_booklet.py` creates a `booklet` folder containing `booklet.html` with the
+content in a format suitable for the booklet accompanying the card deck.
+
+`make_cards.py` creates a `cards` folder with all content relevant for designing
+the cards.
 
 `rescale.sh` takes the images in `json/images`, makes a copy of these
 and rescales them (manually specified) and optimizes their file size.
 Needs `convert` (https://legacy.imagemagick.org/) and `optipng`
 (http://optipng.sourceforge.net/).
+
+## Translation
+
+Within this repo, get a copy of the translation files. In order to do this, run
+
+```
+git clone git@github.com:IDEMSInternational/vmc-translation-pipeline.git
+```
+
+In `make_booklet.py` and `make_cards.py`, change the `LANG` variable at the top
+to the language of your choice. 

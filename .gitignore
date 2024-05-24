@@ -1,5 +1,12 @@
-json/*.json
+vmc-translation-pipeline/
+json/
+booklet/
+!booklet/booklet.css
+cards/
+crowdin/*.json
 cards.js
 generated_flows.json
-booklet.md
-booklet.html
+
+__pycache__/
+*.pyc
+*.pyo
