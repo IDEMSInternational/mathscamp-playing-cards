@@ -83,3 +83,8 @@ git clone git@github.com:IDEMSInternational/vmc-translation-pipeline.git
 
 In `make_booklet.py` and `make_cards.py`, change the `LANG` variable at the top
 to the language of your choice. 
+
+*Remark:* The source strings that are on Crowdin not in sync with the markdown files
+in this branch and reflect the state as of commit `c8d0d09d99`.
+To produce translated content, use the branch `crowdin-synched-fr` which reverts
+these changes.
