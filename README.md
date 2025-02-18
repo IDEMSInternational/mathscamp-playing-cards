@@ -1,3 +1,7 @@
+This branch reverts all Markdown file changes to commit `c8d0d09d99`, as none
+of the subsequent changes have been synched with crowdin.
+This way, we can still produce a valid French translation.
+
 # Virtual Maths Camp Content Toolchain
 
 This is a tool chain for converting content (puzzles, fun facts, games) from

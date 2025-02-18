@@ -32,7 +32,7 @@ If we call the two distances "short" and "long", then any such drawing of points
 
 ![](Two%20Distances_images/image_1.png)
 
-Short edges are represented by **blue** while long edges are represented by **green**. One of these solutions can be extended to 5 points that only use two distances, see the pictures above.
+Short edges are represented by **blue** while long edges are represented by **green**. One of these solutions can be extended to 5 points that only use two distances, see bottom right picture.
 
 # Extension 1
 

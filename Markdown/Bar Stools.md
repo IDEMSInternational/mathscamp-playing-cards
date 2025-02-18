@@ -12,7 +12,7 @@ counting
 
 ## Statement
 
-In how many different ways can you arrange teachers and students in a row of 5 chairs such that no 2 teachers are sat next to each other?
+How many different ways can you arrange teachers and students in a row of 5 chairs such that no 2 teachers are sat next to each other?
 
 ## Correct Answer
 
@@ -58,7 +58,7 @@ For the 5 chairs we can add o onto all the 4 chairs options and and xo onto all 
 
 ## Statement
 
-In how many different ways can you arrange teachers and students in a row of 10 chairs such that no 2 teachers are sat next to each other?
+How many different ways can you arrange teachers and students in a row of 10 chairs such that no 2 teachers are sat next to each other?
 
 ## Hint
 
@@ -84,7 +84,7 @@ So there are 144 ways to have people sitting on the 10 chairs.
 
 ## Statement
 
-Consider all numbers of chairs between 1 and 30 inclusive. For how many of these is the number of possible ways of seating teachers and students an even number?
+For all the number of chairs between 1 and 30 inclusive, how many of these will have an even number of ways of sitting on them?
 
 ## Hint
 

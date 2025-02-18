@@ -12,7 +12,7 @@ Counting
 
 ## Statement
 
-Consider the cake below – a six-sided hexagon. Now split it into triangles by cutting along diagonals that don't cross each other, one example is given in red. This splitting into triangles is called a triangulation. In how many ways can you do this?
+Consider the cake below – a six-sided hexagon. Now split it into triangles by cutting along diagonals that don't cross each other, one example is given in red. This splitting into triangles is called a triangulation, in how many ways can you do this?
 
 ![](Triangular%20Slices_images/image_0.png)
 
@@ -38,7 +38,7 @@ For a hexagon there are 14 ways as you can see below:
 
 ![](Triangular%20Slices_images/image_3.png)
 
-In this diagram you can see the solution is found by thinking of 6 + 3 + 2 + 3 = 14, but you can arrive at the solution by using the solutions for smaller polygons: If we consider the side of the hexagon connecting points 1 and 2, it can form a triangle with any of the other 4 points. If we pick point 3 or 6, we are left with a pentagon, for which we know there are 5 ways of triangulating it. If we pick point 4 or 5, we are left with a triangle and a square, for which there are 1×2 ways. Adding up the number of choices gives us 5 + 2 + 2 + 5 = 14. The equivalent combination for the pentagon is 2 + 1 + 2 = 5, where 1 is the result of the triangle (which has of course only one option) and 2 is the result for a square.
+In this diagram you can see the solution is found by thinking of 6 + 3 + 2 + 3 = 14, but you can arrive at the solution by doing 5 + 2 + 2 + 5 = 14 where 5 is the answer for a pentagon and 2 is the answer for a square. The equivalent combination for the pentagon is 2 + 1 + 2 = 5, where 1 is the result of the triangle (which has of course only one option) and 2 is the result for a square.
 
 This is a more useful technique for moving on to thinking of polygons with more vertices.
 

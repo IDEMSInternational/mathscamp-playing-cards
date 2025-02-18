@@ -40,9 +40,9 @@ Second round: ✕ 4 ✕ 8 ✕ 12 ...  only multiples of 4 left
 
 Third round: ✕ 8 ✕ 16 ✕ 24  ...  only multiples of 8 left
 
-Fourth round: ✕ 16 ✕ 32 ... only multiples of 16 will be left
+Fourth round: Only multiples of 16 will be left
 
-Fifth round: ✕ 32 ... only multiples of 32 will be left.
+Fifth round: Only multiples of 32 will be left.
 
 32 is the only multiple of 32 under 50, so 32 is the last peg left.
 

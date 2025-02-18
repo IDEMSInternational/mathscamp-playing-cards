@@ -52,7 +52,7 @@ The seven numbers 1, 2, 3, 4, 5, 6, and 7 add up to 28. If the pattern is contin
 
 ## Statement
 
-The pattern 1234...n,1234...n,1234...,n is carried on for 120000 digits. If the sum of these digits is 960000, what is n equal to? 
+The pattern 1234...n,1234,...n,1234…,n is carried on for 120000 digits. If the sum of these digits is 960000, what is n equal to? 
 
 ## Hint
 

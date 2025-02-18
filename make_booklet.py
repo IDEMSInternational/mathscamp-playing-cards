@@ -4,7 +4,7 @@ import os
 from shutil import copyfile, copytree
 from translation_tools import get_translation_map, translate
 
-LANG = 'eng'
+LANG = 'fra'
 
 def write_paragraph(title, content, out):
     insert_pos = content.find("<p>") + len("<p>")
