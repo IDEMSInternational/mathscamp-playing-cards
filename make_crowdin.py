@@ -4,6 +4,8 @@ import re
 from bs4 import BeautifulSoup, NavigableString
 import os
 
+from translation_tools import fields_to_translate
+
 def process_entry(content, out):
     soup = BeautifulSoup(content, features="html.parser")
     paragraphs = soup.find_all('p')
@@ -16,22 +18,6 @@ def process_entry(content, out):
         string = string.strip()
         if string:
             out[string] = string
-
-fields_to_translate = [
-    ["title"],
-    ["main_version", "statement"],
-    ["main_version", "hint"],
-    ["main_version", "explanation"],
-    ["main_version", "further_instructions"],
-    ["main_version", "strategy_tips"],
-    ["additional_information", "about"],
-    ["extension_1", "statement"],
-    ["extension_1", "hint"],
-    ["extension_1", "explanation"],
-    ["extension_2", "statement"],
-    ["extension_1", "hint"],
-    ["extension_2", "explanation"],
-]
 
 os.makedirs('crowdin/cards/en-GB', exist_ok=True)
 cardcsv = open('cards.csv')

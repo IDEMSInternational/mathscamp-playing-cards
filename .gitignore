@@ -6,6 +6,7 @@ cards/
 crowdin/*.json
 cards.js
 generated_flows.json
+website/
 
 __pycache__/
 *.pyc

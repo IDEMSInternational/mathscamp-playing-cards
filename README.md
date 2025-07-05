@@ -66,7 +66,8 @@ is still missing sections.
 content in a format suitable for the booklet accompanying the card deck.
 
 `make_cards.py` creates a `cards` folder with all content relevant for designing
-the cards.
+the cards, as well as a `website` folder with card content in the format required
+by https://github.com/IDEMSInternational/vmc-cards/.
 
 `rescale.sh` takes the images in `json/images`, makes a copy of these
 and rescales them (manually specified) and optimizes their file size.
@@ -81,8 +82,8 @@ Within this repo, get a copy of the translation files. In order to do this, run
 git clone git@github.com:IDEMSInternational/vmc-translation-pipeline.git
 ```
 
-In `make_booklet.py` and `make_cards.py`, change the `LANG` variable at the top
-to the language of your choice. 
+In `make_booklet.py` and `make_cards.py`, change the `LANG/LANGUAGES` variable at the
+top to the languages of your choice. 
 
 *Remark:* The source strings that are on Crowdin not in sync with the markdown files
 in this branch and reflect the state as of commit `c8d0d09d99`.
